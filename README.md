@@ -1,8 +1,12 @@
 # Sha256withRSA
 
-# python2.7
+# Python2.7
 
-预先安装 pip install pycrypto
+预先安装 pycrypto
+
+```shell
+ # pip install pycrypto
+```
 
 # Java
 
